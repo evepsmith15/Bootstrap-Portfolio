@@ -1,0 +1,34 @@
+h1 {
+    font-style: bolder; 
+    font-size: 24px;
+    margin-bottom: 25%;
+}
+
+h2 {
+    font-size: 36px;
+}
+
+h3 {
+    color: turquoise;
+}
+
+body {
+    background-image: url(../images/full-bloom.jpg);
+    background-position: center;
+    margin: 0;
+}
+
+.footer-copyright {
+    border-top: blue;
+    border-width: large;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+.navbar-nav {
+    float: right;
+}
+
+.container {
+    min-height: 90vh;
+}
